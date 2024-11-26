@@ -13,7 +13,7 @@ BRNK is a URL shortener created as part of a technical assessment for The Brink 
 1. Install the packages
 
 ```
-npm install
+npm install --legacy-peer-deps
 ```
 
 Then, set the corresponding environment variables
