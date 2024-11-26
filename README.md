@@ -1,6 +1,6 @@
 ### BRNK
 
-BRNK is a URL shortener created as part of a technical assessment for The Brink Agency. Try the live preview at [brnk.cc](https://brnk.cc).
+BRNK is a URL shortener created as part of a technical assessment for The Brink Agency. Try the live preview at [thebr.ink](https://thebr.ink).
 
 #### Tech stack
 
