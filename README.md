@@ -25,7 +25,7 @@ NEXT_PUBLIC_API_URL=http://localhost:8000
 NEXT_PUBLIC_WEB_URL=http://localhost:3000
 ```
 
-Finally, run the command to the start the development server
+Finally, run the command to start the development server
 
 ```
 npm run dev
